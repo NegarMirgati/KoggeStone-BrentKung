@@ -30,3 +30,4 @@ work/
 # End of https://www.gitignore.io/api/modelsim
 
 adders.mpf
+*.docx
